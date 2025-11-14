@@ -57,9 +57,9 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Solar Winds Presentation](/pdf/SolarWinds.pdf)
 
-- **Class:** 
+- **Class: CSCI 352; Cyber Defense** 
 - **Grade:**
 
 ---
