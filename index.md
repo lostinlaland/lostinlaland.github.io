@@ -31,19 +31,21 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Software Ownership: Can You Really Have It All?](/pdf/Ethics_Paper_Applied.pdf)
 
--   **Class:**  
+-   **Class: CSCI 332; Applied Networking** 
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
+### [Memes, How Funny Are They Really?](/pdf/Societal Impact of Memes.pdf)
+
+-   **Class: CSCI 330; Computer Architecture** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
+### [Coding and Ethics](/pdf/Coding and Ethics.pdf)
+
+-   **Class: CSCI 301; Survey of Scripting Languages**  
 -   **Grade:**
 
 ---
