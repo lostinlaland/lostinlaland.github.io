@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Australian Cyber Legislation Package Presentation](/pdf/Australian Cyber Legislation.pdf)
+### [Australian Cyber Legislation Package Presentation](/pdf/Australia Cyber Legislation.pdf)
 
 - **Class: CSCI 405; Principles of Cybersecurity** 
 - **Grade:**
