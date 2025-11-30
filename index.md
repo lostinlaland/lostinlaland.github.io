@@ -34,19 +34,19 @@ Ethics Papers
 ### [Software Ownership: Can You Really Have It All?](/pdf/Ethics_Paper_Applied.pdf)
 
 -   **Class: CSCI 332; Applied Networking** 
--   **Grade:**
+-   **Grade: A**
 
 
 ### [Memes, How Funny Are They Really?](/pdf/Societal Impact of Memes.pdf)
 
 -   **Class: CSCI 330; Computer Architecture** 
--   **Grade:**
+-   **Grade: A**
 
 
 ### [Coding and Ethics](/pdf/Coding and Ethics.pdf)
 
 -   **Class: CSCI 301; Survey of Scripting Languages**  
--   **Grade:**
+-   **Grade: A**
 
 ---
 
@@ -56,13 +56,13 @@ Presentations
 ### [Australian Cyber Legislation Package Presentation](/pdf/Australia Cyber Legislation.pdf)
 
 - **Class: CSCI 405; Principles of Cybersecurity** 
-- **Grade:**
+- **Grade: A**
 
 
 ### [Solar Winds Presentation](/pdf/SolarWinds.pdf)
 
 - **Class: CSCI 352; Cyber Defense** 
-- **Grade:**
+- **Grade: A**
 
 ---
 
