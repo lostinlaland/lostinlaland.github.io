@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Statistics Calculator
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 325** 
+-   **Grade: A** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** [/lostinlaland/statisticsCalculator325](https://github.com/lostinlaland/statisticsCalculator325)  
+    (Please [email me](mailto:lakirbymail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -18,8 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd ./dir
+java -jar "statisticsCalculator325.jar" 
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
