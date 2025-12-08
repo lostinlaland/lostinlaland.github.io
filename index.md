@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](lakirbymail@gmail.com) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Statistic Calculator | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/statsMainView.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
