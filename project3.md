@@ -1,42 +1,38 @@
 [Back to Portfolio](./)
 
-Temperature Converter
+Tennis Game
 ===============
 
 -   **Class: CSCI 325** 
 -   **Grade: A** 
--   **Language(s): Java** 
--   **Source Code Repository:** [/lostinlaland/statisticsCalculator325](https://github.com/lostinlaland/temperatureConverter)  
+-   **Language(s): C++** 
+-   **Source Code Repository:** [/lostinlaland/statisticsCalculator325](https://github.com/lostinlaland/tennisGame)  
     (Please [email me](mailto:lakirbymail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-A temperature is added to the user input box on the screen. This temperature (as noted next to the input field) is assumed to be in Celcius. When the user clicks on the "Convert" button the program converts the Celcius temperature into the corresponding Fahrenheit temperature. The result is output to the screen between the "Convert" button and Fahrenheit tag.
-## How to compile and run the program
+When the program is ran in the terminal, the user will be prompted to enter '1' or '2' to select which player will serve first in the simulated game. From there the program will make a series of decisions, with the potential to change each time the program is run, that determine the outcome of the game. When the program has made the decisions it outputs them to the screen along with the associated scores for each player. The final line of the output tells the user that the game is over and which player was the winner.
 
-How to run the program.
+How to compile and run the program.
 
 ```bash
-cd ./dir
-java -jar "CelciusConverterProject.jar" 
+cd ./tennisGame
+g++ tennisGame.cpp -o tennis
+./tennis
 ```
 
 ## UI Design
 
-This program allows the user to input any temperature in Celcius and after they click on the "Convert" button the corresponding temperature in Fahrenheit will appear.
+This program allows the user to choose whether Player 1 or Player 2 serves first in a simulated tennis match. It then outputs the details of the server and updated score. When a player's score reaches 60 the game ends and the winner is announced.
 
+![screenshot](images/tennisStartView.png)  
+Fig 1. The Start Menu screen
 
-![screenshot](images/converterMainView.png)  
-Fig 1. The launch screen
+![screenshot](images/tennisPlayer1.png)  
+Fig 2. Simulated game with Player 1 serving first.
 
-![screenshot](images/converter0.png)  
-Fig 2. Output in Celcius after entering in 0° Fahrenheit.
-
-![screenshot](images/converter100.png)  
-Fig 3. Output in Celcius after entering in 100° Fahrenheit.
-
-![screenshot](images/converter-5.png)  
-Fig 4. Output in Celcius after entering -5° Fahrenheit.
+![screenshot](images/tennisPlayer2.png)  
+Fig 3. Simulated game with Player 2 serving first.
 
 
 [Back to Portfolio](./)
