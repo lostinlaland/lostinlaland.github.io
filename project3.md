@@ -6,7 +6,7 @@ Tennis Game
 -   **Class: CSCI 325** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [/lostinlaland/statisticsCalculator325](https://github.com/lostinlaland/tennisGame)  
+-   **Source Code Repository:** [/lostinlaland/tennisGame](https://github.com/lostinlaland/tennisGame)  
     (Please [email me](mailto:lakirbymail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
