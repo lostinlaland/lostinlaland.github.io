@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Project 4 Title | CSCI 325](project4)
 
-![Project 4 Thumbnail Name](images/rockStartView)
+![Project 4 Thumbnail Name](images/rockStartView.png)
 
 ---
 
