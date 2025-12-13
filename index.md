@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Tennis Game Simulator | CSCI 325](project1)
 
-![Project 3 Thumbnail Name](images/tennisStartView.jpg)
+![Project 3 Thumbnail Name](images/tennisStartView.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
