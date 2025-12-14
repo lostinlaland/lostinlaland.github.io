@@ -4,7 +4,7 @@ Statistics Calculator
 ===============
 
 -   **Class: CSCI 325** 
--   **Grade: A** 
+-   **Grade: B** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** [/lostinlaland/statisticsCalculator325](https://github.com/lostinlaland/statisticsCalculator325)  
     (Please [email me](mailto:lakirbymail.com?subject=GitHub%20Access) to request access.)
