@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/tennisStartView.png)
 
 ---
-### [Project 4 Title | CSCI 325](project4)
+### [Rock, Paper, Scissors Game | CSCI 325](project4)
 
 ![Project 4 Thumbnail Name](images/rockStartView.png)
 
